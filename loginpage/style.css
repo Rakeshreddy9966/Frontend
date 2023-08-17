@@ -1,0 +1,63 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-image: url('img1.jpg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.Login{
+    border: 2px solid;
+    margin: auto;
+    width: 35%;
+    height: 35%;
+    margin-top: 220px;
+    padding: 20px;
+}
+h1{
+    text-align: center;
+}
+.email{
+
+    font-weight: bold;
+    font-size: large;
+}
+.pasw{
+    font-weight:bold;
+    font-size:large
+}
+.sub{
+    
+    margin-left: 60px;
+    background-color:lightgreen;
+    font-weight:bold;
+}
+input{
+    
+    border: none;
+    border-radius: 10px;
+    height: 30px;
+    width: 100%;
+    padding: 10px;
+}
+.sub{
+    
+    border: none;
+    border-radius: 10px;
+    height: 30px;
+    width: 30%;
+    margin-left: 230px;
+}
+.sub:hover{
+    background-color: rgb(97, 241, 97);
+}
+
+.{
+    margin-top: ;
+    border-top: ;
+    outline:
+    padding-top: ;
+    
+
+}

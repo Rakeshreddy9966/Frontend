@@ -1,0 +1,1 @@
+mvn archetype:generate -Dgroupid=com.dl-DartifactId=projectonemaven-DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=false
